@@ -1,3 +1,9 @@
+# 0x00 注：仅供安全研究与学习之用，若将工具做其他用途，由使用者承担全部法律及连带责任，作者及发布者不承担任何法律及连带责任。
+## 效果图
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/sLeE46eddMGhjmIyGibxHhk4XMiahTPTItcmwH618ySudocxte4DAwgTxGEcVaiaGjgP5OfxAzcJpHEEWxJ9HCiaag/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+## 
+![](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzkzMDMxNDgzNA==&mid=100000003&idx=1&sn=5c4a0d978b63135a390d45cca30de153&send_time=1713752938)
+
 # 0x01 实验环境准备
 1. Windows 环境
 2. 安装 rust 编辑器 https://www.jetbrains.com/rust/nextversion/
