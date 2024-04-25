@@ -14,7 +14,7 @@
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29308756/1713751700246-85c61d2c-def0-4c44-989c-57aa2d161eef.png#averageHue=%23292c30&clientId=ufde2ddcf-2b5b-4&from=paste&id=u4b4ad5e1&originHeight=1310&originWidth=1540&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u528fc13e-43ad-42b8-a93a-9845e75db01&title=)
 # 0x02 免杀思路
-暂时无法在飞书文档外展示此内容
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/sLeE46eddMHxkZPicJ3ht6OxfiaBjTmA4zRuaWZwCkjppsShhqaPSCCxgBn6zWTrHeVtV5qQBtzZzoibfNJmYLB7g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 # 0x03 加密与解密代码编写
 由于这个项目已经是公开于众的，所以不能让shellcode 存在特征，所以我们将使用base64加密(改)+伪随机数爆破的方式来更改特征
 ## 引入shellcode
